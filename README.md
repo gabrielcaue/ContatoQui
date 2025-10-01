@@ -1,5 +1,4 @@
-# SBGAMES 2025 - Networking App
-
+# ContatoQui
 Aplicação de networking para o evento SBGAMES 2025. Permite que participantes se conheçam através da leitura de QR codes que contêm URLs do LinkedIn.
 
 ## Funcionalidades
